@@ -1,1 +1,1 @@
-Movies app using theMoviedb and the local storage
+Movies app using theMoviedb Api  and the local storage
